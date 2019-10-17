@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dfb34ff-5206-4b09-9b70-f8db54ab26e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cookies_installing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_showed_windows_count.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="518612519">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="2" />
+          <entry key="py" value="3" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="37" />
+          <entry key="py" value="3902" />
+          <entry key="txt" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="62" />
+          <entry key="Python" value="3902" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cookies_installing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_showed_windows_count.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/comftest.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/test_Showed_Windows_Count.py" />
+        <option value="$PROJECT_DIR$/test_cookies_installing.py" />
+        <option value="$PROJECT_DIR$/test_showed_windows_count.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autotests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotests" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\imhio_test_task\autotests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_showed_windows_count.py">
+    <configuration name="pytest for test_cookies_installing" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cookies_installing&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_cookies_installing.test_cookies__installing" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cookies_installing.test_cookies__installing&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_showed_windows_count.test_showed_windows_count" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_showed_windows_count.test_showed_windows_count&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_cookies_installing.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_cookies_installing.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_showed_windows_count.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="autotests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_showed_windows_count.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in test_cookies_installing.py" />
+      <item itemvalue="Python tests.pytest for test_cookies_installing" />
+      <item itemvalue="Python tests.pytest for test_cookies_installing.test_cookies__installing" />
+      <item itemvalue="Python tests.pytest in test_showed_windows_count.py" />
+      <item itemvalue="Python tests.pytest for test_showed_windows_count.test_showed_windows_count" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_showed_windows_count.py" />
+        <item itemvalue="Python tests.pytest for test_cookies_installing.test_cookies__installing" />
+        <item itemvalue="Python tests.pytest in test_cookies_installing.py" />
+        <item itemvalue="Python tests.pytest for test_showed_windows_count.test_showed_windows_count" />
+        <item itemvalue="Python tests.pytest for test_cookies_installing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dfb34ff-5206-4b09-9b70-f8db54ab26e4" name="Default Changelist" comment="" />
+      <created>1571316609933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571316609933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_test_showed_windows_count_test_showed_windows_count - 2019.10.17 at 21h 50m 00s.xml">
+      <configuration name="pytest for test_showed_windows_count.test_showed_windows_count" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_showed_windows_count_test_showed_windows_count - 2019.10.17 at 21h 53m 40s.xml">
+      <configuration name="pytest for test_showed_windows_count.test_showed_windows_count" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_showed_windows_count_test_showed_windows_count - 2019.10.17 at 21h 55m 11s.xml">
+      <configuration name="pytest for test_showed_windows_count.test_showed_windows_count" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_showed_windows_count_test_showed_windows_count - 2019.10.17 at 21h 57m 33s.xml">
+      <configuration name="pytest for test_showed_windows_count.test_showed_windows_count" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_showed_windows_count_test_showed_windows_count - 2019.10.17 at 21h 58m 17s.xml">
+      <configuration name="pytest for test_showed_windows_count.test_showed_windows_count" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_showed_windows_count_py - 2019.10.17 at 21h 59m 37s.xml">
+      <configuration name="pytest in test_showed_windows_count.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_showed_windows_count_test_showed_windows_count - 2019.10.17 at 22h 00m 26s.xml">
+      <configuration name="pytest for test_showed_windows_count.test_showed_windows_count" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_cookies_installing_py - 2019.10.17 at 22h 06m 40s.xml">
+      <configuration name="pytest in test_cookies_installing.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_cookies_installing_test_cookies__installing - 2019.10.17 at 22h 11m 39s.xml">
+      <configuration name="pytest for test_cookies_installing.test_cookies__installing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_cookies_installing_test_cookies__installing - 2019.10.17 at 22h 12m 25s.xml">
+      <configuration name="pytest for test_cookies_installing.test_cookies__installing" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/conftest.py" />
+    <entry file="file://$PROJECT_DIR$/reports/a7d1b03b-db6b-4c8a-a7f2-16bb9c2ee38e-attachment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/bedea7f2-9300-41b4-b663-10ab5a67f439-result.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/f4dd5185-b259-4b02-8640-6e0ab860ca85-result.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cookies_installing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_showed_windows_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
